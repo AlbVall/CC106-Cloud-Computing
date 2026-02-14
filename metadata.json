@@ -1,0 +1,5 @@
+{
+  "name": "GitPush - Pro File Uploader",
+  "description": "A modern and professional interface for uploading files directly to private or public GitHub repositories using the GitHub REST API.",
+  "requestFramePermissions": []
+}
